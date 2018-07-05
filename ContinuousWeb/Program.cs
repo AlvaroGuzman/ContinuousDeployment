@@ -15,7 +15,7 @@ namespace ContinuousWeb
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
-            //cambio seguro
+            //Alvaro Guzman
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
