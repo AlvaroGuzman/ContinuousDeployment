@@ -15,6 +15,7 @@ namespace ContinuousWeb
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            //cambio seguro
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
